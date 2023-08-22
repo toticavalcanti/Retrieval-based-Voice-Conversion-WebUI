@@ -17,10 +17,6 @@ Um framework de conversão de voz simples e fácil de usar baseado em VITS<br><b
 
 ------
 
-[**Changelog**](https://github.com/toticavalcanti/Retrieval-based-Voice-Conversion-WebUI/blob/main/Changelog_PT-BR.md)
-
-[**English**](./docs/README.en.md) | [**Português**](./README.md) | [**日本語**](./docs/README.ja.md) | [**한국어**](./docs/README.ko.md) ([**韓國語**](./docs/README.ko.han.md))
-
 
 > Clique aqui para assistir ao nosso [vídeo de demonstração](https://www.bilibili.com/video/BV1pm4y1z7Gm/) !
 
