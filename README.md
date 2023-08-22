@@ -3,8 +3,6 @@
 <h1>Retrieval-based-Voice-Conversion-WebUI</h1>
 Um framework de conversão de voz simples e fácil de usar baseado em VITS<br><br>
 
-[![Feito com amor](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/toticavalcanti/Retrieval-based-Voice-Conversion-WebUI)
-
 <img src="https://counter.seku.su/cmoe?name=rvc&theme=r34" /><br>
 
 [![Abrir no Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1b0HAsVZO0AKptwrwjajP2_-fYJotoJNq?usp=sharing)
