@@ -16,9 +16,8 @@ Um framework de conversão de voz simples e fácil de usar baseado em VITS<br><b
 ------
 
 
-> Clique aqui para assistir ao nosso [vídeo de demonstração](https://www.bilibili.com/video/BV1pm4y1z7Gm/) !
+> Clique aqui para assistir ao nosso [vídeo de demonstração](https://www.codigofluente.com.br) !
 
-> Usando a conversão de voz em tempo real do RVC: [w-okada/voice-changer](https://github.com/w-okada/voice-changer)
 
 > O modelo de base é treinado com aproximadamente 50 horas do conjunto de dados de treinamento VCTK de alta qualidade, sem preocupações com direitos autorais. Sinta-se à vontade para usar.
 
