@@ -19,7 +19,7 @@ Um framework de conversão de voz simples e fácil de usar baseado em VITS<br><b
 > Clique aqui para assistir ao nosso [vídeo de demonstração](https://www.codigofluente.com.br) !
 
 
-> O modelo de base é treinado com aproximadamente 50 horas do conjunto de dados de treinamento VCTK de alta qualidade, sem preocupações com direitos autorais. Sinta-se à vontade para usar.
+> O modelo de base é treinado com aproximadamente 50 horas do conjunto de dados de treinamento [VCTK](https://datashare.ed.ac.uk/handle/10283/2950) de alta qualidade, sem preocupações com direitos autorais. Sinta-se à vontade para usar.
 
 > Estamos planejando adicionar gradualmente conjuntos de treinamento de voz de alta qualidade com licenças autorizadas.
 
