@@ -14,7 +14,7 @@ Um framework simples e fácil de usar para conversão de voz baseado em VITS<br>
 ------
 ## [Link Para o Repositório Original](https://github.com/camenduru/Retrieval-based-Voice-Conversion-WebUI)
 
-> Clique aqui para ver nosso [vídeo de demonstração](https://www.codigofluente.com.br/) !
+> Clique aqui para ver nosso [vídeo de demonstração](https://www.codigofluente.com.br/aula-45-redes-neurais-retrieval-based-voice-conversion/) !
 
 > O modelo base é treinado com quase 50 horas do conjunto de treinamento VCTK de alta qualidade, sem preocupações com direitos autorais. Sinta-se à vontade para usar.
 
